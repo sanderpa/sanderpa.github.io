@@ -156,7 +156,6 @@ h1, h2, h3, h4, h5, h6 {
 }
 
  .section__title {
-     margin: 15px 0;
      font-size: 36px;
      font-size: 400;
      font-weight: 700;
@@ -181,7 +180,8 @@ h1, h2, h3, h4, h5, h6 {
 
 .about__card1 {
     border-radius: 50%;
-    box-shadow: 0px 0px 20px rgba(160, 82, 45, 0.7);
+    box-shadow: 0px 0px 10px rgba(160, 82, 45, 0.7);
+    margin: 10px;
 }
 
 .about__card2 {
@@ -204,7 +204,8 @@ h1, h2, h3, h4, h5, h6 {
 
 .about__card3 {
     border-radius: 50%;
-    box-shadow: 0px 0px 20px rgba(160, 82, 45, 0.4);
+    box-shadow: 0px 0px 10px rgba(160, 82, 45, 0.7);
+    margin: 10px;
 }
 
 p1 {
