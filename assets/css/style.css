@@ -150,7 +150,7 @@ h1, h2, h3, h4, h5, h6 {
     max-width: 800px;
     color: #333;
     font-style: italic;
-    letter-spacing:4px;
+    font-size: 22px;
     text-align: center;
     margin: inherit;
 }
