@@ -4,7 +4,8 @@ html {
 
 body {
     margin: 0;
-    font-family: 'Bellota', cursive;  font-size: 18px;
+    font-family: 'Cormorant Infant', serif;  
+    font-size: 18px;
 }
 
 *, *:before, *:after {
@@ -323,6 +324,10 @@ p1 {
     p1 {
         width: 340px;
     }
+
+    .content__text {
+        padding: 15px;
+    }
 }
 
 @media screen and (max-width: 610px) {
@@ -332,5 +337,15 @@ p1 {
 
     .intro__title {
         font-size: 55px;
+    }
+}
+
+@media screen and (max-width: 410px) {
+    iframe {
+        width: 315px;
+    }
+
+    .intro__title {
+        font-size: 46px;
     }
 }
